@@ -3,8 +3,7 @@
 A modern **Like & Dislike** web application built with **Next.js**. Users can browse posts, like or dislike them, and experience a clean, responsive interface with fast performance.
 
 🌐 **Live Demo:** https://nextjs-likedislike-2w95.vercel.app/
-<img width="1887" height="921" alt="Image" src="https://github.com/user-attachments/assets/e308f355-89f3-4896-9f48-916415f4ad76" />
-<img width="1898" height="902" alt="Image" src="https://github.com/user-attachments/assets/2b91ba39-09d0-48ea-97ba-c0a93a7ed776" />
+
 
 
 ---
@@ -26,17 +25,18 @@ A modern **Like & Dislike** web application built with **Next.js**. Users can br
 - **Next.js**
 - **React**
 - **JavaScript**
-- **CSS / Tailwind CSS** *(if applicable)*
+- **MUI** 
 - **Vercel** (Deployment)
 
 ---
 
 ## 📸 Preview
 
-> Add a screenshot of your project here.
+>
+> <img width="1887" height="921" alt="Image" src="https://github.com/user-attachments/assets/e308f355-89f3-4896-9f48-916415f4ad76" />
+<img width="1898" height="902" alt="Image" src="https://github.com/user-attachments/assets/2b91ba39-09d0-48ea-97ba-c0a93a7ed776" />
 
-```md
-![Project Screenshot](./public/screenshot.png)
+
 ```
 
 ---
@@ -46,7 +46,7 @@ A modern **Like & Dislike** web application built with **Next.js**. Users can br
 ### Clone the repository
 
 ```bash
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/Elyasforghani/nextjs-likedislike
 ```
 
 ### Navigate into the project
@@ -71,20 +71,6 @@ Open your browser and visit:
 
 ```
 http://localhost:3000
-```
-
----
-
-## 📂 Project Structure
-
-```
-.
-├── app/
-├── components/
-├── public/
-├── styles/
-├── package.json
-└── README.md
 ```
 
 ---
@@ -123,7 +109,6 @@ https://nextjs-likedislike-2w95.vercel.app/
 **Alireza Forghani**
 
 - GitHub: https://github.com/ElyasForghani
-- LinkedIn: https://linkedin.com/in/your-linkedin
 
 ---
 
@@ -131,8 +116,4 @@ https://nextjs-likedislike-2w95.vercel.app/
 
 If you like this project, consider giving it a ⭐ on GitHub. It helps support future projects!
 
----
 
-## 📄 License
-
-This project is licensed under the MIT License.
