@@ -1,37 +1,138 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 👍 Next.js Like & Dislike App
 
-## Getting Started
-https://nextjs-likedislike-2w95.vercel.app/
+A modern **Like & Dislike** web application built with **Next.js**. Users can browse posts, like or dislike them, and experience a clean, responsive interface with fast performance.
 
-First, run the development server:
+🌐 **Live Demo:** https://nextjs-likedislike-2w95.vercel.app/
+<img width="1887" height="921" alt="Image" src="https://github.com/user-attachments/assets/e308f355-89f3-4896-9f48-916415f4ad76" />
+<img width="1898" height="902" alt="Image" src="https://github.com/user-attachments/assets/2b91ba39-09d0-48ea-97ba-c0a93a7ed776" />
+
+
+---
+
+## ✨ Features
+
+- 👍 Like posts
+- 👎 Dislike posts
+- ⚡ Built with Next.js
+- 📱 Fully responsive design
+- 🎨 Modern and clean UI
+- 🔄 Real-time UI updates
+- 🚀 Fast page loading and optimized performance
+
+---
+
+## 🛠️ Tech Stack
+
+- **Next.js**
+- **React**
+- **JavaScript**
+- **CSS / Tailwind CSS** *(if applicable)*
+- **Vercel** (Deployment)
+
+---
+
+## 📸 Preview
+
+> Add a screenshot of your project here.
+
+```md
+![Project Screenshot](./public/screenshot.png)
+```
+
+---
+
+## 🚀 Getting Started
+
+### Clone the repository
+
+```bash
+git clone https://github.com/your-username/your-repository.git
+```
+
+### Navigate into the project
+
+```bash
+cd your-repository
+```
+
+### Install dependencies
+
+```bash
+npm install
+```
+
+### Run the development server
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open your browser and visit:
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+```
+http://localhost:3000
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## 📂 Project Structure
 
-To learn more about Next.js, take a look at the following resources:
+```
+.
+├── app/
+├── components/
+├── public/
+├── styles/
+├── package.json
+└── README.md
+```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 💡 How It Works
 
-## Deploy on Vercel
+1. Browse the available posts.
+2. Click the **Like** button to increase the like count.
+3. Click the **Dislike** button to increase the dislike count.
+4. The interface updates instantly for a smooth user experience.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs-likedislike-2w95.vercel.app/) for more details.
+## 🎯 Learning Objectives
+
+This project demonstrates:
+
+- Building applications with Next.js
+- Component-based architecture
+- State management in React
+- Event handling
+- Responsive UI design
+- Deploying applications with Vercel
+
+---
+
+## 🌍 Live Website
+
+https://nextjs-likedislike-2w95.vercel.app/
+
+
+---
+
+## 👨‍💻 Author
+
+**Alireza Forghani**
+
+- GitHub: https://github.com/ElyasForghani
+- LinkedIn: https://linkedin.com/in/your-linkedin
+
+---
+
+## ⭐ Support
+
+If you like this project, consider giving it a ⭐ on GitHub. It helps support future projects!
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.
